@@ -2,7 +2,5 @@ Backend/.env
 
 Backend/logs/engine.log
 
-Frontend/node_modules
-
 Frontend/Business-Search/node_modules
 
