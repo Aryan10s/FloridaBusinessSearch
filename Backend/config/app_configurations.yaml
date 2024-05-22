@@ -1,0 +1,8 @@
+default_log_level: "INFO"
+
+initial_path: "https://search.sunbiz.org/"
+first_level_html: "\\temp\\first_level.html"
+second_level_html: "\\temp\\second_level.html"
+
+user: "KaajAIUser"
+password: "Kaaj@123"
