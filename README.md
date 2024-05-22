@@ -9,7 +9,7 @@ The Frontend is made in ReactJs framework. It uses Bootstrap, Ant_Design and Mat
 
 Steps to run the Frontend:
 
-1) Open Terminal, move inside Frontend Directory, run command "npm i".
+1) Open Terminal, move inside Frontend Directory.
 2) Then Move inside Business-search Directory, run command "npm i".
 3) After the dependencies are installed run command "npm run dev", to start the development server.
 4) For running in deployement server, first run command "npm run build".
